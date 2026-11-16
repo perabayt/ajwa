@@ -1,0 +1,42 @@
+{
+ "nesneler": {
+  "lm_oda": {
+   "lm": "deluxe-vertical-king-lm_oda.webp",
+   "olcek": 3.8536
+  },
+  "lm_ekli_sol": {
+   "lm": "deluxe-vertical-king-lm_ekli_sol.webp",
+   "olcek": 4.8099
+  },
+  "lm_duvar_sag": {
+   "lm": "deluxe-vertical-king-lm_duvar_sag.webp",
+   "olcek": 2.3049
+  },
+  "lm_ekli_sag": {
+   "lm": "deluxe-vertical-king-lm_ekli_sag.webp",
+   "olcek": 2.4741
+  },
+  "lm_duvar_sol": {
+   "lm": "deluxe-vertical-king-lm_duvar_sol.webp",
+   "olcek": 2.354
+  },
+  "lm_duvar_arka": {
+   "lm": "deluxe-vertical-king-lm_duvar_arka.webp",
+   "olcek": 4.166
+  },
+  "lm_ekli_arka": {
+   "lm": "deluxe-vertical-king-lm_ekli_arka.webp",
+   "olcek": 8.3453
+  },
+  "lm_duvar_on": {
+   "lm": "deluxe-vertical-king-lm_duvar_on.webp",
+   "olcek": 3.7092
+  },
+  "lm_ekli_on": {
+   "lm": "deluxe-vertical-king-lm_ekli_on.webp",
+   "olcek": 2.4319
+  }
+ },
+ "kes": {},
+ "surum": "1794557978110"
+}

@@ -1,0 +1,18 @@
+{
+ "nesneler": {
+  "lm_oda": {
+   "lm": "ajwa-kapadokya-lm_oda.webp",
+   "olcek": 27.8098
+  },
+  "lm_agac": {
+   "lm": "ajwa-kapadokya-lm_agac.webp",
+   "olcek": 0.7145
+  },
+  "lm_arazi": {
+   "lm": "ajwa-kapadokya-lm_arazi.webp",
+   "olcek": 2.5368
+  }
+ },
+ "kes": {},
+ "surum": "20261113164526"
+}
